@@ -1,7 +1,6 @@
 package com.example.desafiosimplify.controller;
 
 import com.example.desafiosimplify.domain.model.Todo;
-import com.example.desafiosimplify.dto.TodoDto;
 import com.example.desafiosimplify.service.TodoService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;

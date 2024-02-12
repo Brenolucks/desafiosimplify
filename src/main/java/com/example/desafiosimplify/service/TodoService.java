@@ -1,8 +1,7 @@
 package com.example.desafiosimplify.service;
 
 import com.example.desafiosimplify.domain.model.Todo;
-import com.example.desafiosimplify.dto.TodoDto;
-import org.springframework.context.annotation.Bean;
+
 
 import java.util.List;
 
